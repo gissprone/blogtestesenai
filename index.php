@@ -4,7 +4,7 @@
 ?>
   <!-- Faremos o formulário e o banner -->
   <div id="main-banner">
-    <h1>Faça seu Pedido</h1>
+    <h1>Faça seus Pedidos</h1>
     </div>
   <!-- Aqui irá a foto -->
   <div>
